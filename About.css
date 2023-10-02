@@ -1,4 +1,4 @@
-ul{
+ul#menu{
     font-family: Helvetica, Arial, sans-serif;
     text-align: center;
 }
@@ -40,13 +40,11 @@ h3{
 }
 p{
     text-align: center;
-}
-p{
     padding-left: 50px;
     padding-right: 50px;
 }
-ol#job{
-    text-align: center;
+ol{
+    margin-left: 600px;
 }
 footer{
     text-align: center;

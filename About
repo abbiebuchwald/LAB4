@@ -10,7 +10,7 @@
             <h1>Abigail Buchwald</h1>
         </header>
         <nav>
-            <ul>
+            <ul id="menu">
                 <li class="header"><a href="lab4.html">Home</a></li>
                 <li class="header"><a href="About">About</a></li>
                 <li class="header"><a href="Work">Work</a></li>

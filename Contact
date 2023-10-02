@@ -9,11 +9,11 @@
             <h1>Abigail Buchwald</h1>
         </header>
     <nav>
-        <ul>
-            <li class="header"><a href="lab4.html">Home</a></li>
-            <li class="header"><a href="About">About</a></li>
-            <li class="header"><a href="Work">Work</a></li>
-            <li class="header"><a href="Contact">Contact</a></li>
+        <ul id="menu">
+            <li><a href="lab4.html">Home</a></li>
+            <li><a href="About">About</a></li>
+            <li><a href="Work">Work</a></li>
+            <li><a href="Contact">Contact</a></li>
         </ul>
     </nav>
     
