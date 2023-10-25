@@ -37,7 +37,7 @@ a{
     display:flex;
     font-size: 1.25vw;
 }
-.pfp{
+#pfp{
     display: block;
     height:auto;
     width: 100%;
